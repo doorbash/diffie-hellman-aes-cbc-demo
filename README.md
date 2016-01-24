@@ -7,5 +7,3 @@ now both of them generate their shared secret keys and ..
 
 #AES-CBC
 and use the shared secret key to encrypt their messages using AES-CBC algorithm
-
-#Please feel free to contribute
