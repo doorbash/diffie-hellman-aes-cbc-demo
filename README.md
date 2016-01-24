@@ -1,6 +1,6 @@
 # Diffie-Hellman and AES-CBC algorithms
 
-#DiffieHelman
+#DiffieHellman
 Alice sends her public key to Bob
 then Bob sends his public key to Alice
 now both of them generate their shared secret keys and ..
